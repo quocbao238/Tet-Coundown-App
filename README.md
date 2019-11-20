@@ -1,2 +1,2 @@
-# App_TetCountDownt
-About App Tet Countdownt
+# App_TetCountDown
+About App Tet Countdown
