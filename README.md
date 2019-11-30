@@ -5,11 +5,14 @@
 #### Feature
 
 * I have developed this app all by myself and I would be happy to share the APK of the app for testing purposes.
-![Luner New Year](https://raw.githubusercontent.com/baobon/AndroidApp_GenWiFi_Config/master/readme/screen.jpg)
+![Luner New Year](https://raw.githubusercontent.com/baobon/AndroidApp_TET_Countdown/master/Img/image.png)
 
 #### Prequisites
 
--   Circleprogress ![implementation 'com.github.lzyzsd:circleprogress:1.2.1']
+-   Circleprogress 
+```sh
+(implementation 'com.github.lzyzsd:circleprogress:1.2.1')
+```
 -   ProgressBar
 -   Thread	
 -   Calendar
